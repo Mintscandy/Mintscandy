@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![leftover's bbdc stats](https://stat.leftover.cn/bbdc?userId=29357027&nickname=Starrismss)]()
+[![leftover's bbdc stats](https://stat.leftover.cn/bbdc?userId=29357027&nickname=Starrismss&theme=light)]()
 
 <!--
 **Mintscandy/Mintscandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
