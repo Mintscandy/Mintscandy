@@ -1,8 +1,12 @@
 ## Hi there 👋
+
 ![Typing SVG](https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=Mints%20Candy&animate=true&speed=1&color=%23000000)
 
 ### 我喜欢？
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AEADF7&width=435&lines=🌴+I+love+Sleep%F0%9F%92%93)](https://git.io/typing-svg)
+
+🍃 I'm currently learning SpringBoot and Mybatis.
 
 <!--
 **Mintscandy/Mintscandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
