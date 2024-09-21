@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Typing SVG](https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=Mints%20Candy&animate=true&speed=1&color=%23000000)
+![Typing SVG](https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=Norin_&animate=true&speed=1&color=%23000000)
 
 ### 我喜欢？
 
